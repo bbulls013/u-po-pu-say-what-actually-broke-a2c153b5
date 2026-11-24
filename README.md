@@ -1,5 +1,9 @@
 # Say What Actually Broke
 
+[![Competition](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5)
+[![Rank](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/bbulls013/u-po-pu-say-what-actually-broke-a2c153b5/rank.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5)
+[![Reward](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/bbulls013/u-po-pu-say-what-actually-broke-a2c153b5/reward.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5)
+
 One line of software error copy for the make.fun bounty
 `u-po-pu-say-what-actually-broke-a2c153b5`.
 
