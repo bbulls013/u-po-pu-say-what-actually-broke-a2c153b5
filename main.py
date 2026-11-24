@@ -17,8 +17,16 @@ ENTRY_LINE = (
     "with its suitcase. Free some space and let it back in."
 )
 
+# The competition gate requires the entry to be 1-200 characters.
+MAX_ENTRY_CHARS = 200
+
 
 def main() -> int:
+    if len(ENTRY_LINE) > MAX_ENTRY_CHARS:
+        raise ValueError(
+            f"Entry line is {len(ENTRY_LINE)} chars, over the "
+            f"{MAX_ENTRY_CHARS}-char limit"
+        )
     output_dir = sys.argv[1] if len(sys.argv) > 1 else "/output"
     os.makedirs(output_dir, exist_ok=True)
     path = os.path.join(output_dir, "entry.txt")
